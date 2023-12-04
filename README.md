@@ -60,17 +60,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 **Teams**-group of agents from different Departments and organize them to handle a specific problems or users via a Help Topic or Ticket Filter.
 
-- Still on the Agent tab click on "Teams" name it ** Level II Support
+- Still on the Agent tab click on "Teams" name it **Level II Support**
 - Then head to the members tab and make yourself a member and finally click **create team** 
 
 <h2>Creating Agent</h2>
 
-**Agents**/Workers- have access to the help desk, enabling them to promptly respond to and resolve tickets.
-( for this section we are going to add 2 new agents)
+**Agents**/Workers- have access to the help desk, enabling them to promptly respond to and resolve tickets
 
 - On the agent tab click on "Agents" then **Add New Agent**
-- Then create a name it can be any name but I will be using "Jane Doe" and i will also create and email address ex: **jane.doe@osticket.com**
-- set the user name as jane.doe (Write this down on note pad)
+- Then create a name (it can be any name) I will be using "Jane Doe" and I will also create and email address ex: **jane.doe@osticket.com**
+- Set the user name as jane.doe (Write this down on note pad)
 - Click set password and make the password **Password1** and uncheck the boxes above and bellow 
   ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/5a811f03-ce67-49ba-99f4-f7b7c1b7830f)
 
@@ -79,9 +78,47 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - On the acess tab make her Primary Department: **System Administrator** and **Supreme Admin**
   ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/ab09ff16-d7ec-4fe5-a792-060eaf042c49)
-- On the permissions tab make sure all permisions are checked snd on the teams tab make her oart of level II team 
+- On the permissions tab make sure all permisions are checked and on the teams tab make her part of level II team 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ - Repeat the same steps for the second agent "John Doe" just make his Primary Department: **Support** and set his permissions to view only
+
+
+ <h2>Creating Users </h2>    
+
+ **Users**-  are the pople that create the tickes on help desk whenever they need something fixed 
+
+- Swith to the agent panel and navigate to users (here you willl create two new users Karen adn Ken)
+- Click on add user and give them a name and email just like the agents (make sure to write these down on notepad)
+  ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/196993f5-d4e7-4886-b572-2d70588ada0c)
+
+
+ <h2>Creating SLA Plans</h2>    
+
+**Service Level Agreements (SLA) Plans **-provide a length of time in which the help desk Administrator expects tickets to be closed/resolved.
+
+- Switch back to the Admin panel and navigate to the manage tab then SLA and finally click **Add New SLA Plan**
+- ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/740e5461-01d7-47c2-8c57-fc8f627d0d4b)
+
+- We will create three SLA PLans (as you can see above I've already created them) SEV-A, SEV-B, and SEV-C
+  - You will give them a name, a grace period and a schedule
+  - SEV-A will have a grace perios of 1 and a schedule of 24/7
+  - SEV-B will ahve a grace period of 4 and a schedule of 24/7
+  - SEV-C will have a grace period of 8 and a scheudle of MON-FRI
+    ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/95b5ee43-7859-46eb-b970-c2fad8d7053f)
+
+
+ <h2>Creating Help Topics</h2>  
+ 
+ - Still in the admin paneland on the manage tab click on " Help Topics" then **Add New Help Topic**
+ - For this projecct all you have to do is give them a name and leave all default settings in a work environment it will be different
+   ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/f447c36e-58b6-4960-9ba2-bacef4df2f88)
+
+ - We will create four different toppics
+   - Business Critical Outage
+   - Personal Computer Issues
+   - Equipment Request
+   - Password Reset
 </p>
 <p>
 
