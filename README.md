@@ -76,7 +76,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/e53592a5-65dc-4c9a-905d-925f414edc98)
 
-- On the acess tab make her Primary Department: **System Administrator** and **Supreme Admin**
+- On the acess tab make her Primary Department: **System Administrator** and **Supreme Admin** and on Extended access select **support** and then click add **(THIS IS VERY IMPORTANT)**
   ![image](https://github.com/Andrea-Decasenave/post-install-config/assets/150068516/ab09ff16-d7ec-4fe5-a792-060eaf042c49)
 - On the permissions tab make sure all permisions are checked and on the teams tab make her part of level II team 
 <p>
