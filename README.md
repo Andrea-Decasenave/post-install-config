@@ -124,7 +124,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - End Users Log in: http://localhost/osTicket/
+
+ - Help  desk Log in:http://localhost/osTicket/scp/login.php
 </p>
 <p>
 
